@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route du Ricanto",
+               "short_name" : "Route du Ricanto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ajaccio",
+               "short_name" : "Ajaccio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corse-du-Sud",
+               "short_name" : "Corse-du-Sud",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Corse",
+               "short_name" : "Corse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20700",
+               "short_name" : "20700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Route du Ricanto, 20700 Ajaccio, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.928633,
+               "lng" : 8.777424999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.92998198029149,
+                  "lng" : 8.778773980291501
+               },
+               "southwest" : {
+                  "lat" : 41.92728401970849,
+                  "lng" : 8.776076019708496
+               }
+            }
+         },
+         "place_id" : "ChIJG4n80kVq2hIRnBTF9TL1oE8",
+         "types" : [ "establishment", "food", "lodging", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

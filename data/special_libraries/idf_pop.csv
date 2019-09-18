@@ -1,0 +1,1301 @@
+,DEPCOM,MACROZONE,Macro_agre,NOM,POP2010,POP2011
+0,75101,Paris,Paris Iintramuros,Paris 1er Arrondissement,17308,17443
+1,75102,Paris,Paris Iintramuros,Paris 2e  Arrondissement,23009,22927
+2,75103,Paris,Paris Iintramuros,Paris 3e  Arrondissement,35652,36120
+3,75104,Paris,Paris Iintramuros,Paris 4e  Arrondissement,28012,27887
+4,75105,Paris,Paris Iintramuros,Paris 5e  Arrondissement,60938,60800
+5,75106,Paris,Paris Iintramuros,Paris 6e  Arrondissement,43451,43880
+6,75107,Paris,Paris Iintramuros,Paris 7e  Arrondissement,57974,57786
+7,75108,Haussmann,Paris intramuros,Paris 8e  Arrondissement,41280,40589
+8,75109,Haussmann,Paris intramuros,Paris 9e  Arrondissement,60139,60120
+9,75110,RER E - tronc commun,Paris Iintramuros,Paris 10e  Arrondissement,95394,94027
+10,75111,Paris,Paris Iintramuros,Paris 11e  Arrondissement,153202,154647
+11,75112,Paris,Paris Iintramuros,Paris 12e  Arrondissement,144262,144402
+12,75113,Paris,Paris Iintramuros,Paris 13e  Arrondissement,181532,183260
+13,75114,Paris,Paris Iintramuros,Paris 14e  Arrondissement,138299,140317
+14,75115,Paris,Paris Iintramuros,Paris 15e  Arrondissement,236715,238395
+15,75116,RER E - la Drfense,Paris Iintramuros,Paris 16e  Arrondissement,171124,169942
+16,75117,RER E - la Drfense,Paris Iintramuros,Paris 17e  Arrondissement,169325,170174
+17,75118,RER E - tronc commun,Paris Iintramuros,Paris 18e  Arrondissement,202685,203127
+18,75119,RER E - tronc commun,Paris Iintramuros,Paris 19e  Arrondissement,186652,186090
+19,75120,Paris,Paris Iintramuros,Paris 20e  Arrondissement,196880,198042
+20,77001,77,,Ach0res-la-Fornt,1242,1232
+21,77002,77,,Amillis,774,781
+22,77003,77,,Amponville,385,388
+23,77004,77,,Andrezel,303,299
+24,77005,77,,Annet-sur-Marne,3239,3229
+25,77006,77,,Arbonne-la-For?t,1024,1025
+26,77007,P - Provins,,Argenti?res,388,395
+27,77008,77,,Armenti?res-en-Brie,1405,1399
+28,77009,77,,Arville,132,127
+29,77010,P - Provins,,Aubepierre-Ozouer-le-Repos,904,895
+30,77011,77,,Aufferville,551,547
+31,77012,77,,Augers-en-Brie,304,304
+32,77013,77,,Aulnoy,386,386
+33,77014,77,,Avon,13984,14084
+34,77015,77,,Baby,85,94
+35,77016,77,,Bagneaux-sur-Loing,1704,1695
+36,77018,RER A Marne,,Bailly-Romainvilliers,6516,6884
+37,77019,77,,Balloy,331,325
+38,77020,77,,Bannost-Villegagnon,636,649
+39,77021,77,,Barbey,193,195
+40,77022,77,,Barbizon,1346,1357
+41,77023,77,,Barcy,236,249
+42,77024,77,,Bassevelle,352,349
+43,77025,77,,Bazoches-l?s-Bray,827,826
+44,77026,77,,Beauchery-Saint-Martin,410,411
+45,77027,77,,Beaumont-du-G?tinais,1164,1159
+46,77028,77,,Beautheil,712,724
+47,77029,P - Provins,,Beauvoir,189,194
+48,77030,77,,Bellot,809,799
+49,77031,77,,Bernay-Vilbert,837,843
+50,77032,77,,Beton-Bazoches,781,812
+51,77033,77,,Bezalles,229,236
+52,77034,77,,Blandy,760,735
+53,77035,77,,Blennes,562,566
+54,77036,77,,Boisdon,92,97
+55,77037,77,,Bois-le-Roi,5650,5649
+56,77038,77,,Boissettes,464,463
+57,77039,77,,Boissise-la-Bertrand,1006,1068
+58,77040,77,,Boissise-le-Roi,3572,3616
+59,77041,77,,Boissy-aux-Cailles,315,311
+60,77042,77,,Boissy-le-Ch?tel,3110,3110
+61,77043,77,,Boitron,393,396
+62,77044,P - Provins,,Bombon,908,860
+63,77045,77,,Bougligny,721,720
+64,77046,77,,Boulancourt,366,370
+65,77047,77,,Bouleurs,1441,1453
+66,77048,77,,Bourron-Marlotte,2712,2683
+67,77049,77,,Boutigny,875,878
+68,77050,77,,Bransles,505,519
+69,77051,77,,Bray-sur-Seine,2397,2427
+70,77052,P - Provins,,Br?au,351,346
+71,77053,77,,Brie-Comte-Robert,16251,16075
+72,77054,77,,La Brosse-Montceaux,725,727
+73,77055,77,,Brou-sur-Chantereine,4254,4324
+74,77056,77,,Burcy,148,152
+75,77057,77,,Bussi?res,461,461
+76,77058,RER A Marne,,Bussy-Saint-Georges,23341,25135
+77,77059,RER A Marne,,Bussy-Saint-Martin,724,726
+78,77060,77,,Buthiers,755,756
+79,77061,77,,Cannes-?cluse,2566,2540
+80,77062,77,,Carnetin,473,488
+81,77063,P - Colommiers,,La Celle-sur-Morin,1267,1269
+82,77065,77,,C?ly,1198,1226
+83,77066,77,,Cerneux,305,311
+84,77067,77,,Cesson,8572,9092
+85,77068,P - Provins,,Cessoy-en-Montois,216,214
+86,77069,77,,Chailly-en-Bi?re,1997,1974
+87,77070,77,,Chailly-en-Brie,1449,1443
+88,77071,77,,Chaintreaux,902,917
+89,77072,77,,Chalautre-la-Grande,689,698
+90,77073,P - Provins,,Chalautre-la-Petite,563,579
+91,77075,77,,Chalifert,1212,1234
+92,77076,P - Provins,,Chalmaison,736,745
+93,77077,77,,Chambry,906,920
+94,77078,77,,Chamigny,1264,1300
+95,77079,77,,Champagne-sur-Seine,6485,6499
+96,77080,77,,Champcenest,138,147
+97,77081,P - Provins,,Champdeuil,638,662
+98,77082,77,,Champeaux,768,810
+99,77083,RER A Marne,,Champs-sur-Marne,24418,24499
+100,77084,77,,Changis-sur-Marne,1062,1084
+101,77085,RER A Marne,,Chanteloup-en-Brie,2121,2403
+102,77086,77,,La Chapelle-Gauthier,1449,1491
+103,77087,77,,La Chapelle-Iger,159,157
+104,77088,77,,La Chapelle-la-Reine,2596,2567
+105,77089,77,,La Chapelle-Rablais,951,962
+106,77090,P - Provins,,La Chapelle-Saint-Sulpice,213,220
+107,77091,P - Colommiers,,Les Chapelles-Bourbon,421,413
+108,77093,77,,La Chapelle-Moutils,390,412
+109,77094,77,,Charmentray,261,266
+110,77095,77,,Charny,1220,1225
+111,77096,77,,Chartrettes,2556,2573
+112,77097,77,,Chartronges,279,285
+113,77098,P - Provins,,Ch?teaubleau,330,338
+114,77099,77,,Ch?teau-Landon,3112,3125
+115,77100,77,,Le Ch?telet-en-Brie,4416,4413
+116,77101,77,,Ch?tenay-sur-Seine,933,955
+117,77102,77,,Ch?tenoy,149,155
+118,77103,77,,Ch?tillon-la-Borde,218,217
+119,77104,P - Colommiers,,Ch?tres,579,593
+120,77106,77,,Chauffry,992,1021
+121,77107,P - Provins,,Chaumes-en-Brie,3046,3045
+122,77108,77,,Chelles,52779,52817
+123,77109,77,,Chenoise,1290,1289
+124,77110,77,,Chenou,302,313
+125,77111,RER A Marne,,Chessy,4298,4355
+126,77112,77,,Chevrainvilliers,224,223
+127,77113,77,,Chevru,1088,1081
+128,77114,RER E - Tournan,,Chevry-Cossigny,3706,3897
+129,77115,77,,Chevry-en-Sereine,508,507
+130,77116,77,,Choisy-en-Brie,1347,1356
+131,77117,77,,Citry,797,808
+132,77118,77,,Claye-Souilly,11026,11122
+133,77119,P - Provins,,Clos-Fontaine,257,265
+134,77120,77,,Cocherel,592,614
+135,77121,RER A Marne,,Coll?gien,3145,3099
+136,77122,77,,Combs-la-Ville,21554,21908
+137,77123,77,,Compans,711,723
+138,77124,RER A Marne,,Conches-sur-Gondoire,1740,1735
+139,77125,77,,Cond?-Sainte-Libiaire,1409,1416
+140,77126,77,,Congis-sur-Th?rouanne,1759,1765
+141,77127,77,,Coubert,1821,1962
+142,77128,77,,Couilly-Pont-aux-Dames,2132,2155
+143,77129,77,,Coulombs-en-Valois,611,625
+144,77130,77,,Coulommes,402,409
+145,77131,P - Colommiers,,Coulommiers,14544,14622
+146,77132,RER A Marne,,Coupvray,2705,2656
+147,77133,77,,Courcelles-en-Bass?e,228,234
+148,77134,77,,Courchamp,152,153
+149,77135,77,,Courpalay,1402,1413
+150,77136,77,,Courquetaine,200,201
+151,77137,77,,Courtacon,198,215
+152,77138,P - Provins,,Courtomer,542,535
+153,77139,77,,Courtry,6156,6280
+154,77140,77,,Couten?on,285,289
+155,77141,RER A Marne,,Coutevroult,974,996
+156,77142,77,,Cr?cy-la-Chapelle,4225,4250
+157,77143,77,,Cr?gy-l?s-Meaux,4292,4339
+158,77144,77,,Cr?vecoeur-en-Brie,301,303
+159,77145,77,,Crisenoy,628,624
+160,77146,RER A Marne,,Croissy-Beaubourg,2010,1988
+161,77147,P - Provins,,La Croix-en-Brie,667,669
+162,77148,77,,Crouy-sur-Ourcq,1747,1745
+163,77149,P - Provins,,Cucharmoy,242,237
+164,77150,77,,Cuisy,442,439
+165,77151,77,,Dagny,340,337
+166,77152,77,,Dammarie-les-Lys,20722,20661
+167,77153,77,,Dammartin-en-Go?le,8052,8258
+168,77154,P - Colommiers,,Dammartin-sur-Tigeaux,889,913
+169,77155,RER A Marne,,Dampmart,3158,3179
+170,77156,77,,Darvault,805,818
+171,77157,77,,Dhuisy,276,281
+172,77158,77,,Diant,205,196
+173,77159,77,,Donnemarie-Dontilly,2801,2838
+174,77161,77,,Dormelles,882,862
+175,77162,77,,Doue,1014,1009
+176,77163,77,,Douy-la-Ram?e,290,301
+177,77164,77,,?chouboulains,512,505
+178,77165,77,,Les ?crennes,612,608
+179,77166,77,,?cuelles,2479,2443
+180,77167,77,,?gligny,317,311
+181,77168,77,,?greville,2200,2182
+182,77169,RER E - Tournan,,?merainville,7349,7253
+183,77170,77,,?pisy,514,527
+184,77171,77,,Esbly,5759,5882
+185,77172,77,,Esmans,886,889
+186,77173,77,,?tr?pilly,850,848
+187,77174,P - Provins,,Everly,591,592
+188,77175,77,,?vry-Gr?gy-sur-Yerre,2399,2485
+189,77176,P - Colommiers,,Faremoutiers,2434,2465
+190,77177,RER E - Tournan,,Favi?res,1106,1101
+191,77178,77,,Fa?-l?s-Nemours,478,486
+192,77179,77,,F?ricy,593,582
+193,77180,RER E - Tournan,,F?rolles-Attilly,1123,1135
+194,77181,RER A Marne,,Ferri?res-en-Brie,2198,2243
+195,77182,77,,La Fert?-Gaucher,4424,4557
+196,77183,77,,La Fert?-sous-Jouarre,9061,9222
+197,77184,77,,Flagy,636,645
+198,77185,77,,Fleury-en-Bi?re,640,639
+199,77186,77,,Fontainebleau,15107,14708
+200,77187,77,,Fontaine-Fourches,596,595
+201,77188,77,,Fontaine-le-Port,938,939
+202,77190,77,,Fontains,263,253
+203,77191,P - Provins,,Fontenailles,1060,1062
+204,77192,P - Colommiers,,Fontenay-Tr?signy,5135,5218
+205,77193,77,,Forfry,270,271
+206,77194,77,,Forges,414,413
+207,77195,77,,Fouju,545,562
+208,77196,77,,Fresnes-sur-Marne,654,657
+209,77197,77,,Fr?toy,155,155
+210,77198,77,,Fromont,218,212
+211,77199,77,,Fublaines,1186,1167
+212,77200,77,,Garentreville,101,103
+213,77201,77,,Gastins,667,684
+214,77202,77,,La Genevraye,619,622
+215,77203,77,,Germigny-l'?v?que,1358,1357
+216,77204,77,,Germigny-sous-Coulombs,199,203
+217,77205,77,,Gesvres-le-Chapitre,169,165
+218,77206,77,,Giremoutiers,146,146
+219,77207,77,,Gironville,179,170
+220,77208,P - Provins,,Gouaix,1452,1446
+221,77209,RER A Marne,,Gouvernes,1113,1101
+222,77210,77,,La Grande-Paroisse,2591,2610
+223,77211,P - Provins,,Grandpuits-Bailly-Carrois,992,1007
+224,77212,77,,Gravon,142,145
+225,77214,77,,Gressy,912,902
+226,77215,RER E - Tournan,,Gretz-Armainvilliers,7984,8066
+227,77216,77,,Grez-sur-Loing,1409,1424
+228,77217,77,,Grisy-Suisnes,2428,2395
+229,77218,77,,Grisy-sur-Seine,98,100
+230,77219,P - Colommiers,,Gu?rard,2251,2250
+231,77220,77,,Guercheville,285,284
+232,77221,RER A Marne,,Guermantes,1243,1217
+233,77222,P - Provins,,Guignes,3365,3364
+234,77223,77,,Gurcy-le-Ch?tel,566,581
+235,77224,77,,Hautefeuille,318,315
+236,77225,77,,La Haute-Maison,355,363
+237,77226,77,,H?ricy,2548,2538
+238,77227,77,,Herm?,604,624
+239,77228,77,,Hondevilliers,240,240
+240,77229,P - Colommiers,,La Houssaye-en-Brie,1609,1618
+241,77230,77,,Ichy,164,173
+242,77231,77,,Isles-les-Meldeuses,771,776
+243,77232,77,,Isles-l?s-Villenoy,910,911
+244,77233,77,,Iverny,588,585
+245,77234,77,,Jablines,639,650
+246,77235,77,,Jaignes,306,291
+247,77236,77,,Jaulnes,355,357
+248,77237,RER A Marne,,Jossigny,629,632
+249,77238,77,,Jouarre,4188,4184
+250,77239,77,,Jouy-le-Ch?tel,1436,1469
+251,77240,77,,Jouy-sur-Morin,2144,2171
+252,77241,77,,Juilly,2156,2189
+253,77242,P - Provins,,Jutigny,576,560
+254,77243,77,,Lagny-sur-Marne,20236,20306
+255,77244,77,,Larchant,742,751
+256,77245,77,,Laval-en-Brie,455,462
+257,77246,77,,L?chelle,558,563
+258,77247,77,,Lescherolles,481,482
+259,77248,77,,Lesches,708,701
+260,77249,77,,L?signy,7442,7429
+261,77250,77,,Leudon-en-Brie,149,164
+262,77251,77,,Lieusaint,10577,10441
+263,77252,77,,Limoges-Fourches,475,469
+264,77253,77,,Lissy,190,196
+265,77254,P - Colommiers,,Liverdy-en-Brie,1278,1298
+266,77255,77,,Livry-sur-Seine,1919,1927
+267,77256,P - Provins,,Lizines,168,174
+268,77257,77,,Lizy-sur-Ourcq,3633,3621
+269,77258,RER A Marne,,Lognes,14560,14410
+270,77259,77,,Longperrier,2454,2464
+271,77260,P - Provins,,Longueville,1684,1760
+272,77261,77,,Lorrez-le-Bocage-Pr?aux,1236,1252
+273,77262,77,,Louan-Villegruis-Fontaine,514,520
+274,77263,77,,Luisetaines,233,238
+275,77264,77,,Lumigny-Nesles-Ormeaux,1515,1519
+276,77265,77,,Luzancy,1052,1073
+277,77266,77,,Machault,722,739
+278,77267,77,,La Madeleine-sur-Loing,337,332
+279,77268,RER A Marne,,Magny-le-Hongre,5918,6580
+280,77269,77,,Maincy,1702,1691
+281,77270,77,,Maisoncelles-en-Brie,852,855
+282,77271,77,,Maisoncelles-en-G?tinais,138,134
+283,77272,P - Provins,,Maison-Rouge,877,893
+284,77273,77,,March?moret,554,548
+285,77274,77,,Marcilly,435,446
+286,77275,77,,Les Mar?ts,153,154
+287,77276,77,,Mareuil-l?s-Meaux,2194,2241
+288,77277,P - Colommiers,,Marles-en-Brie,1433,1443
+289,77278,77,,Marolles-en-Brie,401,395
+290,77279,77,,Marolles-sur-Seine,1600,1609
+291,77280,77,,Mary-sur-Marne,1203,1207
+292,77281,P - Colommiers,,Mauperthuis,486,493
+293,77282,Roissy,,Mauregard,314,317
+294,77283,77,,May-en-Multien,883,899
+295,77284,77,,Meaux,50755,52225
+296,77285,77,,Le M?e-sur-Seine,20609,20693
+297,77286,77,,Meigneux,229,236
+298,77287,77,,Meilleray,501,511
+299,77288,77,,Melun,39589,39497
+300,77289,77,,Melz-sur-Seine,375,371
+301,77290,77,,M?ry-sur-Marne,625,627
+302,77291,Roissy,,Le Mesnil-Amelot,861,851
+303,77292,77,,Messy,1089,1097
+304,77293,77,,Misy-sur-Yonne,974,983
+305,77294,Roissy,,Mitry-Mory,18499,18828
+306,77295,77,,Moisenay,1194,1238
+307,77296,77,,Moissy-Cramayel,17272,17243
+308,77297,77,,Mondreville,364,363
+309,77298,P - Provins,,Mons-en-Montois,482,482
+310,77299,77,,Montarlot,216,225
+311,77300,77,,Montceaux-l?s-Meaux,608,607
+312,77301,77,,Montceaux-l?s-Provins,328,333
+313,77302,77,,Montcourt-Fromonville,2090,2073
+314,77303,77,,Montdauphin,231,234
+315,77304,77,,Montenils,36,34
+316,77305,77,,Montereau-Fault-Yonne,16681,16573
+317,77306,77,,Montereau-sur-le-Jard,563,556
+318,77307,RER A Marne,,Mont?vrain,8675,8950
+319,77308,77,,Montg?-en-Go?le,688,693
+320,77309,77,,Monthyon,1642,1644
+321,77310,77,,Montigny-le-Guesdier,301,298
+322,77311,77,,Montigny-Lencoup,1275,1283
+323,77312,77,,Montigny-sur-Loing,2791,2791
+324,77313,77,,Montmachoux,231,233
+325,77314,77,,Montolivet,245,243
+326,77315,77,,Montry,3287,3343
+327,77316,77,,Moret-sur-Loing,4330,4318
+328,77317,P - Provins,,Mormant,4387,4433
+329,77318,P - Colommiers,,Mortcerf,1467,1455
+330,77319,P - Provins,,Mortery,177,171
+331,77320,P - Colommiers,,Mouroux,4889,4997
+332,77321,77,,Mousseaux-l?s-Bray,692,707
+333,77322,77,,Moussy-le-Neuf,2913,2935
+334,77323,77,,Moussy-le-Vieux,1014,987
+335,77325,77,,Mouy-sur-Seine,364,360
+336,77326,77,,Nandy,5814,5851
+337,77327,P - Provins,,Nangis,7979,8165
+338,77328,77,,Nanteau-sur-Essonne,427,434
+339,77329,77,,Nanteau-sur-Lunain,671,679
+340,77330,77,,Nanteuil-l?s-Meaux,5433,5454
+341,77331,77,,Nanteuil-sur-Marne,474,478
+342,77332,77,,Nantouillet,267,267
+343,77333,77,,Nemours,12745,12822
+344,77335,77,,Chauconin-Neufmontiers,2720,2754
+345,77336,P - Colommiers,,Neufmoutiers-en-Brie,999,972
+346,77337,RER A Marne,,Noisiel,15660,15786
+347,77338,77,,Noisy-Rudignon,586,599
+348,77339,77,,Noisy-sur-?cole,2012,2020
+349,77340,77,,Nonville,622,613
+350,77341,77,,Noyen-sur-Seine,378,370
+351,77342,77,,Obsonville,103,100
+352,77343,77,,Ocquerre,419,426
+353,77344,77,,Oissery,2133,2124
+354,77345,77,,Orly-sur-Morin,671,672
+355,77347,P - Provins,,Les Ormes-sur-Voulzie,830,837
+356,77348,77,,Ormesson,273,284
+357,77349,77,,Othis,6471,6458
+358,77350,RER E - Tournan,,Ozoir-la-Ferri?re,20268,20123
+359,77352,P - Provins,,Ozouer-le-Voulgis,1809,1815
+360,77353,77,,Paley,437,443
+361,77354,77,,Pamfou,930,936
+362,77355,P - Provins,,Paroy,177,180
+363,77356,77,,Passy-sur-Seine,44,47
+364,77357,77,,P?cy,821,819
+365,77358,77,,Penchard,1037,1055
+366,77359,77,,Perthes,2114,2127
+367,77360,77,,P?zarches,386,395
+368,77361,77,,Pierre-Lev?e,466,473
+369,77363,77,,Le Pin,1183,1269
+370,77364,77,,Le Plessis-aux-Bois,240,236
+371,77365,77,,Le Plessis-Feu-Aussoux,545,545
+372,77366,77,,Le Plessis-l'?v?que,251,257
+373,77367,77,,Le Plessis-Placy,269,272
+374,77368,P - Provins,,Poigny,499,496
+375,77369,77,,Poincy,709,701
+376,77370,77,,Poligny,821,823
+377,77371,P - Colommiers,,Pommeuse,2800,2844
+378,77372,77,,Pomponne,3364,3547
+379,77373,RER E - Tournan,,Pontault-Combault,35561,36458
+380,77374,RER E - Tournan,,Pontcarr?,2001,2014
+381,77376,77,,Pr?cy-sur-Marne,767,788
+382,77377,RER E - Tournan,,Presles-en-Brie,2249,2281
+383,77378,77,,Pringy,2498,2459
+384,77379,P - Provins,,Provins,12301,12206
+385,77380,77,,Puisieux,313,315
+386,77381,77,,Quiers,678,690
+387,77382,77,,Quincy-Voisins,5072,5092
+388,77383,P - Provins,,Rampillon,795,799
+389,77384,77,,R?au,1096,1321
+390,77385,77,,Rebais,2151,2146
+391,77386,77,,Recloses,699,699
+392,77387,77,,Remauville,470,475
+393,77388,77,,Reuil-en-Brie,842,837
+394,77389,77,,La Rochette,3095,3151
+395,77390,RER E - Tournan,,Roissy-en-Brie,22321,22436
+396,77391,77,,Rouilly,486,486
+397,77392,77,,Rouvres,623,623
+398,77393,77,,Rozay-en-Brie,2741,2770
+399,77394,77,,Rubelles,1885,1903
+400,77395,77,,Rumont,125,124
+401,77396,77,,Rup?reux,103,102
+402,77397,77,,Sa?cy-sur-Marne,1747,1760
+403,77398,77,,Sablonni?res,696,699
+404,77399,77,,Saint-Ange-le-Viel,228,229
+405,77400,P - Colommiers,,Saint-Augustin,1703,1724
+406,77401,77,,Sainte-Aulde,650,660
+407,77402,77,,Saint-Barth?lemy,386,397
+408,77403,77,,Saint-Brice,693,665
+409,77404,P - Provins,,Sainte-Colombe,1769,1786
+410,77405,77,,Saint-Cyr-sur-Morin,1902,1903
+411,77406,77,,Saint-Denis-l?s-Rebais,951,946
+412,77407,77,,Saint-Fargeau-Ponthierry,12462,12909
+413,77408,77,,Saint-Fiacre,384,395
+414,77409,77,,Saint-Germain-Laval,2773,2798
+415,77410,77,,Saint-Germain-Laxis,497,506
+416,77411,77,,Saint-Germain-sous-Doue,482,483
+417,77412,77,,Saint-Germain-sur-?cole,359,353
+418,77413,77,,Saint-Germain-sur-Morin,3565,3553
+419,77414,77,,Saint-Hilliers,448,454
+420,77415,77,,Saint-Jean-les-Deux-Jumeaux,1107,1098
+421,77416,77,,Saint-Just-en-Brie,244,237
+422,77417,77,,Saint-L?ger,205,205
+423,77418,P - Provins,,Saint-Loup-de-Naud,894,887
+424,77419,77,,Saint-Mamm?s,3179,3180
+425,77420,77,,Saint-Mard,3798,3816
+426,77421,77,,Saint-Mars-Vieux-Maisons,268,270
+427,77423,77,,Saint-Martin-des-Champs,715,723
+428,77424,77,,Saint-Martin-du-Boschet,302,298
+429,77425,77,,Saint-Martin-en-Bi?re,807,797
+430,77426,P - Provins,,Saint-M?ry,389,380
+431,77427,77,,Saint-Mesmes,561,574
+432,77428,P - Provins,,Saint-Ouen-en-Brie,853,860
+433,77429,77,,Saint-Ouen-sur-Morin,559,557
+434,77430,77,,Saint-Pathus,5723,5901
+435,77431,77,,Saint-Pierre-l?s-Nemours,5617,5575
+436,77432,77,,Saint-R?my-la-Vanne,994,991
+437,77433,P - Colommiers,,Saints,1281,1293
+438,77434,77,,Saint-Sauveur-l?s-Bray,330,339
+439,77435,77,,Saint-Sauveur-sur-?cole,1088,1095
+440,77436,77,,Saint-Sim?on,866,874
+441,77437,77,,Saint-Soupplets,3249,3231
+442,77438,77,,Saint-Thibault-des-Vignes,6300,6259
+443,77439,77,,Salins,1022,1026
+444,77440,77,,Sammeron,1030,1051
+445,77441,77,,Samois-sur-Seine,2097,2100
+446,77442,77,,Samoreau,2317,2328
+447,77443,77,,Sancy,384,382
+448,77444,77,,Sancy-l?s-Provins,330,340
+449,77445,77,,Savigny-le-Temple,28599,29074
+450,77446,P - Provins,,Savins,630,621
+451,77447,77,,Seine-Port,1962,1960
+452,77448,77,,Sept-Sorts,433,425
+453,77449,RER A Marne,,Serris,7595,7866
+454,77450,77,,Servon,2974,3104
+455,77451,77,,Signy-Signets,602,607
+456,77452,77,,Sigy,47,47
+457,77453,77,,Sivry-Courtry,1016,1027
+458,77454,P - Provins,,Sognolles-en-Montois,427,420
+459,77455,77,,Soignolles-en-Brie,2073,2077
+460,77456,P - Provins,,Soisy-Bouy,805,802
+461,77457,77,,Solers,1253,1246
+462,77458,77,,Souppes-sur-Loing,5561,5494
+463,77459,P - Provins,,Sourdun,1430,1457
+464,77460,77,,Tancrou,367,385
+465,77461,P - Provins,,Th?nisy,277,275
+466,77462,77,,Thieux,804,801
+467,77463,77,,Thomery,3436,3429
+468,77464,77,,Thorigny-sur-Marne,9220,9125
+469,77465,77,,Thoury-F?rottes,668,680
+470,77466,P - Colommiers,,Tigeaux,373,375
+471,77467,77,,La Tombe,214,208
+472,77468,RER A Marne,,Torcy,22425,22866
+473,77469,77,,Touquin,1095,1093
+474,77470,RER E - Tournan,,Tournan-en-Brie,8054,8174
+475,77471,77,,Tousson,367,362
+476,77472,77,,La Tr?toire,417,441
+477,77473,77,,Treuzy-Levelay,460,457
+478,77474,77,,Trilbardou,639,652
+479,77475,77,,Trilport,4844,4866
+480,77476,77,,Trocy-en-Multien,274,265
+481,77477,77,,Ury,797,790
+482,77478,77,,Ussy-sur-Marne,979,997
+483,77479,77,,Vaires-sur-Marne,12293,12812
+484,77480,77,,Valence-en-Brie,911,904
+485,77481,P - Provins,,Vanvill?,169,167
+486,77482,77,,Varennes-sur-Seine,3355,3377
+487,77483,77,,Varreddes,1858,1856
+488,77484,77,,Vaucourtois,209,213
+489,77485,77,,Le Vaudou?,748,754
+490,77486,77,,Vaudoy-en-Brie,837,849
+491,77487,77,,Vaux-le-P?nil,10866,10803
+492,77489,77,,Vaux-sur-Lunain,200,203
+493,77490,77,,Vendrest,730,718
+494,77491,77,,Veneux-les-Sablons,4799,4820
+495,77492,77,,Verdelot,726,709
+496,77493,P - Provins,,Verneuil-l'?tang,3167,3185
+497,77494,77,,Vernou-la-Celle-sur-Seine,2652,2669
+498,77495,77,,Vert-Saint-Denis,6966,6986
+499,77496,P - Provins,,Vieux-Champagne,180,179
+500,77498,77,,Vignely,256,260
+501,77500,77,,Villeb?on,457,457
+502,77501,77,,Villecerf,738,704
+503,77504,77,,Villemar?chal,833,830
+504,77505,77,,Villemareuil,396,397
+505,77506,77,,Villemer,676,683
+506,77507,77,,Villenauxe-la-Petite,487,495
+507,77508,P - Colommiers,,Villeneuve-le-Comte,1778,1791
+508,77509,77,,Villeneuve-les-Bordes,612,609
+509,77510,P - Colommiers,,Villeneuve-Saint-Denis,714,728
+510,77511,77,,Villeneuve-sous-Dammartin,625,636
+511,77512,77,,Villeneuve-sur-Bellot,1141,1141
+512,77513,77,,Villenoy,4153,4161
+513,77514,77,,Villeparisis,24122,24525
+514,77515,77,,Villeroy,694,700
+515,77516,77,,Ville-Saint-Jacques,720,718
+516,77517,77,,Villevaud?,1731,2027
+517,77518,77,,Villiers-en-Bi?re,215,218
+518,77519,77,,Villiers-Saint-Georges,1213,1205
+519,77520,77,,Villiers-sous-Grez,750,750
+520,77521,77,,Villiers-sur-Morin,1849,1882
+521,77522,77,,Villiers-sur-Seine,308,303
+522,77523,77,,Villuis,256,260
+523,77524,77,,Vimpelles,503,503
+524,77525,77,,Vinantes,348,355
+525,77526,77,,Vincy-Manoeuvre,212,209
+526,77527,77,,Voinsles,576,584
+527,77528,77,,Voisenon,1046,1027
+528,77529,77,,Voulangis,1537,1546
+529,77530,77,,Voulton,304,301
+530,77531,77,,Voulx,1750,1745
+531,77532,P - Provins,,Vulaines-l?s-Provins,65,67
+532,77533,77,,Vulaines-sur-Seine,2594,2640
+533,77534,P - Provins,,Y?bles,659,664
+534,78003,78,,Ablis,3287,3260
+535,78005,78,,Ach0res,19626,19606
+536,78006,78,,Adainville,759,753
+537,78007,78,,Aigremont,1099,1105
+538,78009,78,,Allainville,302,298
+539,78010,78,,Les Alluets-le-Roi,1203,1211
+540,78013,78,,Andelu,493,485
+541,78015,78,,Andr5sy,12174,11980
+542,78020,78,,Arnouville-l?s-Mantes,852,864
+543,78029,78,,Aubergenville,12020,11867
+544,78030,78,,Auffargis,2005,1991
+545,78031,78,,Auffreville-Brasseuil,586,595
+546,78033,78,,Aulnay-sur-Mauldre,1158,1156
+547,78034,78,,Auteuil,858,869
+548,78036,78,,Autouillet,474,475
+549,78043,78,,Bailly,3914,3902
+550,78048,78,,Bazainville,1425,1442
+551,78049,78,,Bazemont,1521,1517
+552,78050,78,,Bazoches-sur-Guyonne,591,579
+553,78053,78,,B?houst,476,482
+554,78057,78,,Bennecourt,1810,1812
+555,78062,78,,Beynes,7678,7676
+556,78068,78,,Blaru,929,927
+557,78070,78,,Boinville-en-Mantois,312,321
+558,78071,78,,Boinville-le-Gaillard,617,616
+559,78072,78,,Boinvilliers,268,264
+560,78073,78,,Bois-d'Arcy,13693,13788
+561,78076,78,,Boissets,272,267
+562,78077,78,,La Boissi?re-?cole,769,750
+563,78082,78,,Boissy-Mauvoisin,624,624
+564,78084,78,,Boissy-sans-Avoir,586,578
+565,78087,78,,Bonnelles,1913,1922
+566,78089,78,,Bonni?res-sur-Seine,4344,4427
+567,78090,78,,Bouafle,2132,2106
+568,78092,78,,Bougival,8447,8472
+569,78096,78,,Bourdonn?,490,502
+570,78104,78,,Breuil-Bois-Robert,709,713
+571,78107,78,,Br?val,1979,1942
+572,78108,78,,Les Br?viaires,1261,1256
+573,78113,78,,Brueil-en-Vexin,687,683
+574,78117,78,,Buc,5312,5245
+575,78118,78,,Buchelay,2346,2406
+576,78120,78,,Bullion,1951,1951
+577,78123,78,,Carri?res-sous-Poissy,15234,15453
+578,78124,78,,Carri?res-sur-Seine,15473,15441
+579,78125,78,,La Celle-les-Bordes,934,909
+580,78126,78,,La Celle-Saint-Cloud,20971,21181
+581,78128,78,,Cernay-la-Ville,1643,1642
+582,78133,78,,Chambourcy,5872,5845
+583,78138,78,,Chanteloup-les-Vignes,9626,9614
+584,78140,78,,Chapet,1180,1195
+585,78143,78,,Ch?teaufort,1429,1415
+586,78146,78,,Chatou,30173,30281
+587,78147,78,,Chaufour-l?s-Bonni?res,422,433
+588,78152,78,,Chavenay,1863,1892
+589,78158,78,,Le Chesnay,28975,29226
+590,78160,78,,Chevreuse,5768,5808
+591,78162,78,,Choisel,525,535
+592,78163,78,,Civry-la-For?t,357,370
+593,78164,78,,Clairefontaine-en-Yvelines,790,808
+594,78165,SQY,,Les Clayes-sous-Bois,17553,17678
+595,78168,SQY,,Coigni?res,4527,4476
+596,78171,78,,Cond?-sur-Vesgre,1139,1149
+597,78172,78,,Conflans-Sainte-Honorine,35380,35582
+598,78185,78,,Courgent,378,387
+599,78188,78,,Cravent,414,423
+600,78189,78,,Crespi?res,1574,1568
+601,78190,78,,Croissy-sur-Seine,10048,10060
+602,78192,78,,Dammartin-en-Serve,1028,1055
+603,78193,78,,Dampierre-en-Yvelines,1113,1110
+604,78194,78,,Dannemarie,242,243
+605,78196,78,,Davron,340,328
+606,78202,78,,Drocourt,505,522
+607,78206,78,,Ecquevilly,3931,3937
+608,78208,SQY,,?lancourt,26829,26389
+609,78209,78,,?manc?,850,859
+610,78217,78,,?p?ne,6503,6473
+611,78220,78,,Les Essarts-le-Roi,6318,6298
+612,78224,78,,L' ?tang-la-Ville,4769,4729
+613,78227,78,,?vecquemont,786,788
+614,78230,78,,La Falaise,618,607
+615,78231,78,,Favrieux,148,149
+616,78233,78,,Feucherolles,2908,2847
+617,78234,78,,Flacourt,140,137
+618,78236,78,,Flexanville,574,581
+619,78237,78,,Flins-Neuve-?glise,164,163
+620,78238,78,,Flins-sur-Seine,2426,2389
+621,78239,78,,Follainville-Dennemont,1846,1851
+622,78242,78,,Fontenay-le-Fleury,12732,12981
+623,78245,78,,Fontenay-Mauvoisin,418,412
+624,78246,78,,Fontenay-Saint-P?re,995,988
+625,78251,78,,Fourqueux,4085,4095
+626,78255,78,,Freneuse,3930,3933
+627,78261,78,,Gaillon-sur-Montcient,665,668
+628,78262,78,,Galluis,1142,1140
+629,78263,78,,Gambais,2466,2445
+630,78264,78,,Gambaiseuil,69,72
+631,78265,78,,Garanci?res,2382,2395
+632,78267,78,,Gargenville,6770,6811
+633,78269,78,,Gazeran,1238,1256
+634,78276,78,,Gommecourt,659,666
+635,78278,78,,Goupilli?res,460,480
+636,78281,78,,Goussonville,617,615
+637,78283,78,,Grandchamp,309,313
+638,78285,78,,Gressey,541,542
+639,78289,78,,Grosrouvre,933,949
+640,78290,78,,Guernes,1011,1010
+641,78291,78,,Guerville,2079,2109
+642,78296,78,,Guitrancourt,645,651
+643,78297,SQY,,Guyancourt,27966,28245
+644,78299,78,,Hardricourt,2083,2076
+645,78300,78,,Hargeville,397,409
+646,78302,78,,La Hauteville,176,175
+647,78305,78,,Herbeville,287,265
+648,78307,78,,Hermeray,948,956
+649,78310,78,,Houdan,3289,3337
+650,78311,78,,Houilles,31557,31952
+651,78314,78,,Issou,4539,4552
+652,78317,78,,Jambville,809,826
+653,78320,78,,Jeufosse,427,428
+654,78321,78,,Jouars-Pontchartrain,5267,5297
+655,78322,78,,Jouy-en-Josas,8187,8211
+656,78324,78,,Jouy-Mauvoisin,553,553
+657,78325,78,,Jumeauville,592,584
+658,78327,78,,Juziers,3773,3781
+659,78329,78,,Lainville-en-Vexin,812,828
+660,78334,78,,L?vis-Saint-Nom,1705,1708
+661,78335,78,,Limay,16302,16304
+662,78337,78,,Limetz-Villez,1891,1904
+663,78343,78,,Les Loges-en-Josas,1548,1546
+664,78344,78,,Lommoye,644,647
+665,78346,78,,Longnes,1467,1455
+666,78349,78,,Longvilliers,516,510
+667,78350,78,,Louveciennes,7245,7186
+668,78354,78,,Magnanville,5846,5904
+669,78356,SQY,,Magny-les-Hameaux,9027,9100
+670,78358,78,,Maisons-Laffitte,22817,23125
+671,78361,78,,Mantes-la-Jolie,42969,42727
+672,78362,78,,Mantes-la-Ville,19234,19839
+673,78364,78,,Marcq,707,711
+674,78366,78,,Mareil-le-Guyon,401,385
+675,78367,78,,Mareil-Marly,3517,3518
+676,78368,78,,Mareil-sur-Mauldre,1731,1734
+677,78372,78,,Marly-le-Roi,16614,16645
+678,78380,78,,Maule,5801,5764
+679,78381,78,,Maulette,756,796
+680,78382,78,,Maurecourt,4302,4328
+681,78383,SQY,,Maurepas,18679,18928
+682,78384,78,,M?dan,1456,1436
+683,78385,78,,M?nerville,202,205
+684,78389,78,,M?r?,1700,1708
+685,78391,78,,M?ricourt,391,386
+686,78396,78,,Le Mesnil-le-Roi,6415,6408
+687,78397,78,,Le Mesnil-Saint-Denis,6629,6611
+688,78398,78,,Les Mesnuls,874,863
+689,78401,78,,Meulan-en-Yvelines,8855,8921
+690,78402,78,,M?zi?res-sur-Seine,3526,3556
+691,78403,78,,M?zy-sur-Seine,1949,1964
+692,78404,78,,Millemont,251,248
+693,78406,78,,Milon-la-Chapelle,311,295
+694,78407,78,,Mittainville,613,603
+695,78410,78,,Moisson,924,927
+696,78413,78,,Mondreville,369,386
+697,78415,78,,Montainville,561,549
+698,78416,78,,Montalet-le-Bois,327,334
+699,78417,78,,Montchauvet,288,281
+700,78418,78,,Montesson,15193,15270
+701,78420,78,,Montfort-l'Amaury,3138,3127
+702,78423,SQY,,Montigny-le-Bretonneux,33337,33567
+703,78431,78,,Morainvilliers,2399,2473
+704,78437,78,,Mousseaux-sur-Seine,613,617
+705,78439,78,,Mulcent,113,108
+706,78440,78,,Les Mureaux,30859,30739
+707,78442,78,,Neauphle-le-Ch?teau,3011,3028
+708,78443,78,,Neauphle-le-Vieux,751,811
+709,78444,78,,Neauphlette,890,881
+710,78451,78,,N?zel,1042,1070
+711,78455,78,,Noisy-le-Roi,7811,7765
+712,78460,78,,Oinville-sur-Montcient,1115,1111
+713,78464,78,,Orcemont,847,843
+714,78465,78,,Orgerus,2358,2354
+715,78466,78,,Orgeval,5855,5919
+716,78470,78,,Orphin,913,911
+717,78472,78,,Orsonville,332,331
+718,78474,78,,Orvilliers,683,702
+719,78475,78,,Osmoy,382,378
+720,78478,78,,Paray-Douaville,242,242
+721,78481,78,,Le Pecq,16496,16675
+722,78484,78,,Perdreauville,622,630
+723,78486,78,,Le Perray-en-Yvelines,6600,6669
+724,78490,SQY,,Plaisir,30958,31074
+725,78497,78,,Poigny-la-For?t,1034,1017
+726,78498,78,,Poissy,37680,37662
+727,78499,78,,Ponth?vrard,601,602
+728,78501,78,,Porcheville,2832,3071
+729,78502,78,,Le Port-Marly,4803,4946
+730,78503,78,,Port-Villez,246,244
+731,78505,78,,Prunay-le-Temple,394,404
+732,78506,78,,Prunay-en-Yvelines,813,816
+733,78513,78,,La Queue-les-Yvelines,2161,2164
+734,78516,78,,Raizeux,847,864
+735,78517,78,,Rambouillet,26159,25860
+736,78518,78,,Rennemoulin,111,112
+737,78520,78,,Richebourg,1510,1527
+738,78522,78,,Rochefort-en-Yvelines,960,937
+739,78524,78,,Rocquencourt,3215,3217
+740,78528,78,,Rolleboise,412,406
+741,78530,78,,Rosay,385,382
+742,78531,78,,Rosny-sur-Seine,5521,5614
+743,78536,78,,Sailly,379,380
+744,78537,78,,Saint-Arnoult-en-Yvelines,6150,6154
+745,78545,78,,Saint-Cyr-l'?cole,17401,17655
+746,78548,78,,Saint-Forget,474,463
+747,78550,78,,Saint-Germain-de-la-Grange,1824,1819
+748,78551,78,,Saint-Germain-en-Laye,40481,40653
+749,78557,78,,Saint-Hilarion,901,897
+750,78558,78,,Saint-Illiers-la-Ville,321,342
+751,78559,78,,Saint-Illiers-le-Bois,453,462
+752,78561,78,,Saint-Lambert,418,436
+753,78562,78,,Saint-L?ger-en-Yvelines,1484,1491
+754,78564,78,,Saint-Martin-de-Br?thencourt,635,634
+755,78565,78,,Saint-Martin-des-Champs,321,317
+756,78567,78,,Saint-Martin-la-Garenne,920,931
+757,78569,78,,Sainte-Mesme,942,929
+758,78571,78,,Saint-Nom-la-Bret?che,5147,5164
+759,78575,78,,Saint-R?my-l?s-Chevreuse,7922,7826
+760,78576,78,,Saint-R?my-l'Honor?,1384,1379
+761,78586,78,,Sartrouville,51150,51431
+762,78588,78,,Saulx-Marchais,895,902
+763,78590,78,,Senlisse,541,538
+764,78591,78,,Septeuil,2201,2225
+765,78597,78,,Soindres,597,608
+766,78601,78,,Sonchamp,1577,1589
+767,78605,78,,Tacoigni?res,1049,1058
+768,78606,78,,Le Tartre-Gaudran,31,31
+769,78608,78,,Le Tertre-Saint-Denis,114,114
+770,78609,78,,Tessancourt-sur-Aubette,947,947
+771,78615,78,,Thiverval-Grignon,1006,1030
+772,78616,78,,Thoiry,1139,1156
+773,78618,78,,Tilly,542,541
+774,78620,78,,Toussus-le-Noble,958,1006
+775,78621,SQY,,Trappes,29380,29563
+776,78623,78,,Le Tremblay-sur-Mauldre,969,979
+777,78624,78,,Triel-sur-Seine,11598,11549
+778,78638,78,,Vaux-sur-Seine,4813,4798
+779,78640,78,,V?lizy-Villacoublay,20089,20711
+780,78642,78,,Verneuil-sur-Seine,15178,15466
+781,78643,78,,Vernouillet,9399,9401
+782,78644,SQY,,La Verri?re,5993,5924
+783,78646,78,,Versailles,86110,86307
+784,78647,78,,Vert,788,797
+785,78650,78,,Le V?sinet,16249,15929
+786,78653,78,,Vicq,333,338
+787,78655,78,,Vieille-?glise-en-Yvelines,811,803
+788,78668,78,,La Villeneuve-en-Chevrie,568,572
+789,78672,78,,Villennes-sur-Seine,5085,5103
+790,78674,SQY,,Villepreux,9871,9888
+791,78677,78,,Villette,511,515
+792,78681,78,,Villiers-le-Mahieu,704,700
+793,78683,78,,Villiers-Saint-Fr?d?ric,2727,2728
+794,78686,78,,Viroflay,15905,15723
+795,78688,SQY,,Voisins-le-Bretonneux,11730,11631
+796,91001,91,,Abb?ville-la-Rivi?re,283,279
+797,91016,91,,Angerville,3753,3934
+798,91017,91,,Angervilliers,1645,1644
+799,91021,91,,Arpajon,10574,10704
+800,91022,91,,Arrancourt,128,124
+801,91027,Orly,,Athis-Mons,30393,29831
+802,91035,91,,Authon-la-Plaine,360,365
+803,91037,91,,Auvernaux,338,343
+804,91038,91,,Auvers-Saint-Georges,1204,1237
+805,91041,91,,Avrainville,737,777
+806,91044,91,,Ballainvilliers,3795,3779
+807,91045,91,,Ballancourt-sur-Essonne,7399,7425
+808,91047,91,,Baulne,1316,1302
+809,91064,91,,Bi?vres,4643,4462
+810,91067,91,,Blandy,115,118
+811,91069,91,,Boigneville,416,408
+812,91075,91,,Bois-Herpin,75,76
+813,91079,91,,Boissy-la-Rivi?re,551,559
+814,91080,91,,Boissy-le-Cutt?,1324,1319
+815,91081,91,,Boissy-le-Sec,671,675
+816,91085,91,,Boissy-sous-Saint-Yon,3731,3713
+817,91086,91,,Bondoufle,9298,9222
+818,91093,91,,Boullay-les-Troux,649,640
+819,91095,91,,Bouray-sur-Juine,1962,1990
+820,91097,91,,Boussy-Saint-Antoine,6292,6241
+821,91098,91,,Boutervilliers,366,379
+822,91099,91,,Boutigny-sur-Essonne,3103,3061
+823,91100,91,,Bouville,616,626
+824,91103,91,,Br?tigny-sur-Orge,23334,24264
+825,91105,91,,Breuillet,8319,8361
+826,91106,91,,Breux-Jouy,1216,1224
+827,91109,91,,Bri?res-les-Scell?s,1026,1070
+828,91111,91,,Briis-sous-Forges,3364,3491
+829,91112,91,,Brouy,125,128
+830,91114,91,,Brunoy,25377,25492
+831,91115,91,,Bruy?res-le-Ch?tel,3187,3389
+832,91121,91,,Buno-Bonnevaux,476,479
+833,91122,91,,Bures-sur-Yvette,9535,9676
+834,91129,91,,Cerny,3294,3310
+835,91130,91,,Chalo-Saint-Mars,1143,1152
+836,91131,91,,Chalou-Moulineux,418,417
+837,91132,91,,Chamarande,1091,1111
+838,91135,91,,Champcueil,2790,2804
+839,91136,91,,Champlan,2525,2596
+840,91137,91,,Champmotteux,376,384
+841,91145,91,,Chatignonville,56,53
+842,91148,91,,Chauffour-l?s-?tr?chy,135,138
+843,91156,91,,Cheptainville,1905,1901
+844,91159,91,,Chevannes,1641,1686
+845,91161,Orly,,Chilly-Mazarin,18484,18843
+846,91174,91,,Corbeil-Essonnes,43086,44223
+847,91175,91,,Corbreuse,1703,1720
+848,91179,91,,Le Coudray-Montceaux,4708,4725
+849,91180,91,,Courances,352,350
+850,91182,91,,Courcouronnes,13812,13696
+851,91184,91,,Courdimanche-sur-Essonne,269,268
+852,91186,91,,Courson-Monteloup,595,601
+853,91191,91,,Crosne,9143,9190
+854,91195,91,,Dannemois,840,846
+855,91198,91,,D'Huison-Longueville,1409,1406
+856,91200,91,,Dourdan,9984,10036
+857,91201,91,,Draveil,28491,28646
+858,91204,91,,?charcon,793,807
+859,91207,91,,?gly,5323,5314
+860,91215,91,,?pinay-sous-S?nart,12171,12129
+861,91216,91,,?pinay-sur-Orge,10104,10349
+862,91222,91,,Estouches,207,208
+863,91223,91,,?tampes,23158,24013
+864,91225,91,,?tiolles,3073,3101
+865,91226,91,,?tr?chy,6295,6318
+866,91228,91,,?vry,52135,52184
+867,91232,91,,La Fert?-Alais,3985,3994
+868,91235,91,,Fleury-M?rogis,9121,9110
+869,91240,91,,Fontaine-la-Rivi?re,203,212
+870,91243,91,,Fontenay-l?s-Briis,1882,1881
+871,91244,91,,Fontenay-le-Vicomte,1273,1282
+872,91247,91,,La For?t-le-Roi,481,485
+873,91248,91,,La For?t-Sainte-Croix,155,157
+874,91249,91,,Forges-les-Bains,3723,3748
+875,91272,91,,Gif-sur-Yvette,20654,20622
+876,91273,91,,Gironville-sur-Essonne,806,814
+877,91274,91,,Gometz-la-Ville,1374,1387
+878,91275,91,,Gometz-le-Ch?tel,2588,2622
+879,91284,91,,Les Granges-le-Roi,1067,1080
+880,91286,91,,Grigny,26638,27179
+881,91292,91,,Guibeville,719,711
+882,91293,91,,Guigneville-sur-Essonne,926,923
+883,91294,91,,Guillerval,766,776
+884,91312,91,,Igny,10336,10522
+885,91315,91,,Itteville,6575,6568
+886,91318,91,,Janville-sur-Juine,1863,1902
+887,91319,91,,Janvry,584,585
+888,91326,91,,Juvisy-sur-Orge,14634,14924
+889,91330,91,,Lardy,5528,5534
+890,91332,91,,Leudeville,1374,1393
+891,91333,91,,Leuville-sur-Orge,4099,4094
+892,91338,91,,Limours,6459,6478
+893,91339,91,,Linas,6479,6519
+894,91340,91,,Lisses,7173,7316
+895,91345,91,,Longjumeau,21361,21510
+896,91347,91,,Longpont-sur-Orge,6561,6476
+897,91359,91,,Maisse,2661,2698
+898,91363,91,,Marcoussis,7909,7987
+899,91374,91,,Marolles-en-Beauce,218,212
+900,91376,91,,Marolles-en-Hurepoix,4812,4870
+901,91377,Orly,,Massy,42258,43006
+902,91378,91,,Mauchamps,286,283
+903,91386,91,,Mennecy,13395,13344
+904,91390,91,,M?r?ville,3221,3191
+905,91393,91,,M?robert,547,559
+906,91399,91,,Mespuits,191,202
+907,91405,91,,Milly-la-For?t,4741,4765
+908,91408,91,,Moigny-sur-?cole,1302,1300
+909,91411,91,,Les Moli?res,1961,1971
+910,91412,91,,Mondeville,680,687
+911,91414,91,,Monnerville,401,400
+912,91421,91,,Montgeron,22880,22941
+913,91425,91,,Montlh?ry,6840,7019
+914,91432,Orly,,Morangis,12136,12592
+915,91433,91,,Morigny-Champigny,4311,4305
+916,91434,91,,Morsang-sur-Orge,20944,21043
+917,91435,91,,Morsang-sur-Seine,510,524
+918,91441,91,,Nainville-les-Roches,454,463
+919,91457,91,,La Norville,4075,4048
+920,91458,91,,Nozay,4731,4736
+921,91461,91,,Ollainville,4550,4560
+922,91463,91,,Oncy-sur-?cole,958,973
+923,91468,91,,Ormoy,1858,1894
+924,91469,91,,Ormoy-la-Rivi?re,941,943
+925,91471,91,,Orsay,15966,15903
+926,91473,91,,Orveau,197,196
+927,91477,91,,Palaiseau,30285,30316
+928,91479,Orly,,Paray-Vieille-Poste,7111,7171
+929,91482,91,,Pecqueuse,623,626
+930,91494,91,,Le Plessis-P?t?,4036,4158
+931,91495,91,,Plessis-Saint-Benoist,308,308
+932,91507,91,,Prunay-sur-Essonne,310,314
+933,91508,91,,Puiselet-le-Marais,270,276
+934,91511,91,,Pussay,1963,1982
+935,91514,91,,Quincy-sous-S?nart,8048,8209
+936,91519,91,,Richarville,408,406
+937,91521,91,,Ris-Orangis,27463,26988
+938,91525,91,,Roinville,1242,1243
+939,91526,91,,Roinvilliers,92,91
+940,91533,91,,Saclas,1806,1805
+941,91534,91,,Saclay,3241,3439
+942,91538,91,,Saint-Aubin,690,695
+943,91540,91,,Saint-Ch?ron,4799,4817
+944,91544,91,,Saint-Cyr-la-Rivi?re,501,505
+945,91546,91,,Saint-Cyr-sous-Dourdan,1011,1007
+946,91547,91,,Saint-Escobille,460,452
+947,91549,91,,Sainte-Genevi?ve-des-Bois,34195,34771
+948,91552,91,,Saint-Germain-l?s-Arpajon,9338,9324
+949,91553,91,,Saint-Germain-l?s-Corbeil,7174,7242
+950,91556,91,,Saint-Hilaire,380,393
+951,91560,91,,Saint-Jean-de-Beauregard,278,279
+952,91568,91,,Saint-Maurice-Montcouronne,1641,1626
+953,91570,91,,Saint-Michel-sur-Orge,20046,20224
+954,91573,91,,Saint-Pierre-du-Perray,8350,8618
+955,91577,91,,Saintry-sur-Seine,5093,5140
+956,91578,91,,Saint-Sulpice-de-Favi?res,324,324
+957,91579,91,,Saint-Vrain,2813,2850
+958,91581,91,,Saint-Yon,909,899
+959,91587,91,,Saulx-les-Chartreux,5048,5065
+960,91589,91,,Savigny-sur-Orge,36842,37132
+961,91593,91,,Sermaise,1680,1666
+962,91599,91,,Soisy-sur-?cole,1357,1346
+963,91600,91,,Soisy-sur-Seine,7048,6922
+964,91602,91,,Souzy-la-Briche,382,393
+965,91613,91,,Congerville-Thionville,222,227
+966,91617,91,,Tigery,2757,2918
+967,91619,91,,Torfou,272,272
+968,91629,91,,Valpuiseaux,619,620
+969,91630,91,,Le Val-Saint-Germain,1460,1448
+970,91631,91,,Varennes-Jarcy,2373,2360
+971,91634,91,,Vaugrigneuse,1269,1288
+972,91635,91,,Vauhallan,1985,1969
+973,91639,91,,Vayres-sur-Essonne,893,893
+974,91645,91,,Verri?res-le-Buisson,15418,15534
+975,91648,91,,Vert-le-Grand,2410,2404
+976,91649,91,,Vert-le-Petit,2636,2682
+977,91654,91,,Videlles,660,647
+978,91657,91,,Vigneux-sur-Seine,27331,28289
+979,91659,91,,Villab?,4869,5010
+980,91661,91,,Villebon-sur-Yvette,9625,9742
+981,91662,91,,Villeconin,728,731
+982,91665,91,,La Ville-du-Bois,7138,7118
+983,91666,91,,Villejust,2247,2252
+984,91667,91,,Villemoisson-sur-Orge,6950,6977
+985,91671,91,,Villeneuve-sur-Auvers,600,598
+986,91679,91,,Villiers-le-B?cle,1204,1231
+987,91685,91,,Villiers-sur-Orge,3891,3886
+988,91687,91,,Viry-Ch?tillon,32045,31655
+989,91689,Orly,,Wissous,5805,6093
+990,91691,91,,Yerres,29050,28933
+991,91692,91,,Les Ulis,24792,24641
+992,92002,92,,Antony,61793,62012
+993,92004,92,,Asni?res-sur-Seine,82327,83376
+994,92007,L15 sud,,Bagneux,38080,38002
+995,92009,92,,Bois-Colombes,29284,28927
+996,92012,L15 sud,,Boulogne-Billancourt,114205,116220
+997,92014,92,,Bourg-la-Reine,19985,19982
+998,92019,92,,Ch?tenay-Malabry,32111,32083
+999,92020,L15 sud,,Ch?tillon,32619,33405
+1000,92022,92,,Chaville,18668,18852
+1001,92023,L15 sud,,Clamart,52546,52731
+1002,92024,92,,Clichy,58916,59458
+1003,92025,92,,Colombes,85398,85102
+1004,92026,RER E - la D?fense,,Courbevoie,87469,88530
+1005,92032,92,,Fontenay-aux-Roses,23351,23288
+1006,92033,92,,Garches,18169,18118
+1007,92035,RER E - la D?fense,,La Garenne-Colombes,27628,28297
+1008,92036,92,,Gennevilliers,41364,41930
+1009,92040,L15 sud,,Issy-les-Moulineaux,64355,65326
+1010,92044,92,,Levallois-Perret,64253,64629
+1011,92046,L15 sud,,Malakoff,30982,30768
+1012,92047,92,,Marnes-la-Coquette,1647,1659
+1013,92048,L15 sud,,Meudon,45058,45010
+1014,92049,L15 sud,,Montrouge,48597,48710
+1015,92050,RER E - la D?fense,,Nanterre,89185,89476
+1016,92051,RER E - la D?fense,,Neuilly-sur-Seine,61754,61797
+1017,92060,92,,Le Plessis-Robinson,27727,28113
+1018,92062,RER E - la D?fense,,Puteaux,44753,44683
+1019,92063,92,,Rueil-Malmaison,79426,79855
+1020,92064,92,,Saint-Cloud,29873,29194
+1021,92071,92,,Sceaux,19638,19930
+1022,92072,L15 sud,,S?vres,22978,23278
+1023,92073,92,,Suresnes,46723,46876
+1024,92075,92,,Vanves,27002,27022
+1025,92076,92,,Vaucresson,8615,8612
+1026,92077,92,,Ville-d'Avray,10828,10733
+1027,92078,92,,Villeneuve-la-Garenne,25183,25644
+1028,93001,93,,Aubervilliers,76087,75598
+1029,93005,93,,Aulnay-sous-Bois,82120,81880
+1030,93006,93,,Bagnolet,33883,34513
+1031,93007,93,,Le Blanc-Mesnil,51438,51916
+1032,93008,RER E - tronc commun,,Bobigny,47492,47224
+1033,93010,93,,Bondy,53530,53051
+1034,93013,93,,Le Bourget,14864,14978
+1035,93014,93,,Clichy-sous-Bois,29750,29835
+1036,93015,93,,Coubron,4733,4712
+1037,93027,93,,La Courneuve,38007,38789
+1038,93029,93,,Drancy,66410,66635
+1039,93030,93,,Dugny,10656,10783
+1040,93031,93,,?pinay-sur-Seine,54518,54540
+1041,93032,93,,Gagny,39056,39378
+1042,93033,RER A Marne,,Gournay-sur-Marne,6406,6485
+1043,93039,93,,L' ?le-Saint-Denis,7025,7037
+1044,93045,93,,Les Lilas,22228,22505
+1045,93046,93,,Livry-Gargan,41808,42036
+1046,93047,93,,Montfermeil,25269,25963
+1047,93048,Val de Fontenay,,Montreuil,102770,103068
+1048,93049,Val de Fontenay,,Neuilly-Plaisance,20508,20703
+1049,93050,93,,Neuilly-sur-Marne,33498,34005
+1050,93051,RER A Marne,,Noisy-le-Grand,62964,62970
+1051,93053,RER E - tronc commun,,Noisy-le-Sec,39733,40232
+1052,93055,RER E - tronc commun,,Pantin,54136,53797
+1053,93057,93,,Les Pavillons-sous-Bois,21746,22117
+1054,93059,93,,Pierrefitte-sur-Seine,27883,28026
+1055,93061,93,,Le Pr?-Saint-Gervais,18045,18075
+1056,93062,93,,Le Raincy,13828,13928
+1057,93063,RER E - tronc commun,,Romainville,25771,25512
+1058,93064,Val de Fontenay,,Rosny-sous-Bois,41050,41254
+1059,93066,93,,Saint-Denis,106785,107762
+1060,93070,93,,Saint-Ouen,47189,47783
+1061,93071,93,,Sevran,49832,50053
+1062,93072,93,,Stains,33829,34830
+1063,93073,Roissy,,Tremblay-en-France,34493,34452
+1064,93074,93,,Vaujours,6452,6643
+1065,93077,93,,Villemomble,28006,28368
+1066,93078,93,,Villepinte,35658,35850
+1067,93079,93,,Villetaneuse,12592,12642
+1068,94001,Orly,,Ablon-sur-Seine,5171,5221
+1069,94002,L15 sud,,Alfortville,44201,44550
+1070,94003,L15 sud,,Arcueil,19775,20100
+1071,94004,94 sud,,Boissy-Saint-Lnger,16705,16354
+1072,94011,94 sud,,Bonneuil-sur-Marne,16513,16237
+1073,94015,BVC bus,,Bry-sur-Marne,15625,15987
+1074,94016,L15 sud,,Cachan,28248,28404
+1075,94017,BVC bus,,Champigny-sur-Marne,75510,75800
+1076,94018,94 nord,,Charenton-le-Pont,29348,29562
+1077,94019,BVC bus,,Chennevi?res-sur-Marne,18049,17963
+1078,94021,Orly,,Chevilly-Larue,18498,18532
+1079,94022,Orly,,Choisy-le-Roi,40905,41355
+1080,94028,L15 sud,,Cr?teil,89985,90528
+1081,94033,Val de Fontenay,,Fontenay-sous-Bois,53145,52723
+1082,94034,Orly,,Fresnes,26248,26371
+1083,94037,94 nord,,Gentilly,17097,16892
+1084,94038,94 nord,,L' Ha,30201,30574
+1085,94041,94 nord,,Ivry-sur-Seine,57732,58185
+1086,94042,L15 sud,,Joinville-le-Pont,17802,17953
+1087,94043,94 nord,,Le Kremlin-Bic,26046,26131
+1088,94044,94 sud,,Limeil-Brsvannes,19901,20663
+1089,94046,L15 sud,,Maisons-Alfort,52943,53265
+1090,94047,94 sud,,Mandres-les-Roses,4413,4415
+1091,94048,94 sud,,Marolles-en-Brie,4968,4916
+1092,94052,Val de Fontenay,,Nogent-sur-Marne,31637,31795
+1093,94053,94 sud,,Noiseau,4669,4679
+1094,94054,Orly,,Orly,21395,21312
+1095,94055,BVC bus,,Ormesson-sur-Marne,9904,9921
+1096,94056,94 sud,,P4rigny,2311,2352
+1097,94058,Val de Fontenay,,Le Perreux-sur-Marne,32520,33214
+1098,94059,RER E - Tournan,,Le Plessis-Tr?vise,19194,19095
+1099,94060,RER E - Tournan,,La Queue-en-Brie,11381,11506
+1100,94065,Orly,,Rungis,5662,5681
+1101,94067,94 nord,,Saint-Mand-,22396,22292
+1102,94068,L15 sud,,Saint-Maur-des-Foss?s,74816,74818
+1103,94069,L15 sud,,Saint-Maurice,14512,14586
+1104,94070,94 sud,,Santeny,3724,3688
+1105,94071,94 sud,,Sucy-en-Brie,25820,25655
+1106,94073,Orly,,Thiais,29653,29229
+1107,94074,94 sud,,Valenton,12081,11940
+1108,94075,94 sud,,Villecresnes,9598,9712
+1109,94076,L15 sud,,Villejuif,55490,55923
+1110,94077,Orly,,Villeneuve-le-Roi,18479,18610
+1111,94078,94 sud,,Villeneuve-Saint-Georges,32239,32767
+1112,94079,BVC bus,,Villiers-sur-Marne,27338,27222
+1113,94080,94 nord,,Vincennes,48471,48649
+1114,94081,L15 sud,,Vitry-sur-Seine,85413,86375
+1115,95002,95,,Ableiges,943,933
+1116,95008,95,,Aincourt,972,967
+1117,95011,95,,Ambleville,420,424
+1118,95012,95,,Amenucourt,198,207
+1119,95014,95,,Andilly,2524,2520
+1120,95018,95,,Argenteuil,103125,104282
+1121,95019,95,,Arnouville,13538,13737
+1122,95023,95,,Arronville,664,656
+1123,95024,95,,Arthies,301,304
+1124,95026,95,,Asni?res-sur-Oise,2527,2531
+1125,95028,95,,Attainville,1831,1825
+1126,95039,95,,Auvers-sur-Oise,6792,6789
+1127,95040,95,,Avernes,805,827
+1128,95042,95,,Baillet-en-France,1955,2001
+1129,95046,95,,Banthelu,124,125
+1130,95051,95,,Beauchamp,8737,8713
+1131,95052,95,,Beaumont-sur-Oise,8954,9228
+1132,95054,95,,Le Bellay-en-Vexin,244,248
+1133,95055,95,,Bellefontaine,432,433
+1134,95056,95,,Belloy-en-France,1937,2017
+1135,95058,95,,Bernes-sur-Oise,2378,2389
+1136,95059,95,,Berville,332,335
+1137,95060,95,,Bessancourt,6994,6811
+1138,95061,95,,B?themont-la-For?t,420,425
+1139,95063,95,,Bezons,27987,28330
+1140,95074,95,,Boisemont,747,746
+1141,95078,95,,Boissy-l'Aillerie,1774,1769
+1142,95088,95,,Bonneuil-en-France,713,712
+1143,95091,95,,Bouff?mont,5940,5942
+1144,95094,95,,Bouqueval,329,338
+1145,95101,95,,Bray-et-L?,977,971
+1146,95102,95,,Br?an?on,371,362
+1147,95110,95,,Brignancourt,204,202
+1148,95116,95,,Bruy?res-sur-Oise,3700,3761
+1149,95119,95,,Buhy,307,310
+1150,95120,95,,Butry-sur-Oise,2026,2057
+1151,95127,95,,Cergy,56988,58341
+1152,95134,95,,Champagne-sur-Oise,4657,4685
+1153,95139,95,,La Chapelle-en-Vexin,331,331
+1154,95141,95,,Charmont,28,27
+1155,95142,95,,Chars,1811,1862
+1156,95144,95,,Ch?tenay-en-France,69,71
+1157,95149,95,,Chaumontel,3289,3298
+1158,95150,95,,Chaussy,633,627
+1159,95151,95,,Chauvry,301,304
+1160,95154,95,,Chennevi?res-l?s-Louvres,344,336
+1161,95157,95,,Ch?rence,149,153
+1162,95166,95,,Cl?ry-en-Vexin,405,404
+1163,95169,95,,Commeny,379,384
+1164,95170,95,,Cond?court,545,557
+1165,95176,95,,Cormeilles-en-Parisis,23038,23497
+1166,95177,95,,Cormeilles-en-Vexin,1112,1133
+1167,95181,95,,Courcelles-sur-Viosne,306,307
+1168,95183,95,,Courdimanche,6495,6533
+1169,95197,95,,Deuil-la-Barre,21509,21638
+1170,95199,95,,Domont,14827,14996
+1171,95203,95,,Eaubonne,24062,24300
+1172,95205,95,,?couen,7374,7313
+1173,95210,95,,Enghien-les-Bains,11809,11560
+1174,95211,95,,Ennery,2244,2268
+1175,95212,Roissy,,?piais-l?s-Louvres,88,98
+1176,95213,95,,?piais-Rhus,645,649
+1177,95214,95,,?pinay-Champl?treux,67,68
+1178,95218,95,,?ragny,16886,16912
+1179,95219,95,,Ermont,27446,27304
+1180,95229,95,,?zanville,8979,9262
+1181,95241,95,,Fontenay-en-Parisis,1912,1894
+1182,95250,95,,Fosses,9565,9574
+1183,95252,95,,Franconville,33097,33512
+1184,95253,95,,Fr?mainville,490,492
+1185,95254,95,,Fr?m?court,543,539
+1186,95256,95,,Fr?pillon,2795,2820
+1187,95257,95,,La Frette-sur-Seine,4569,4574
+1188,95258,95,,Frouville,369,364
+1189,95259,95,,Gadancourt,99,93
+1190,95268,95,,Garges-l?s-Gonesse,40012,39730
+1191,95270,95,,Genainville,557,564
+1192,95271,95,,G?nicourt,489,490
+1193,95277,95,,Gonesse,26356,26516
+1194,95280,95,,Goussainville,30996,31129
+1195,95282,95,,Gouzangrez,173,176
+1196,95287,95,,Grisy-les-Pl?tres,607,617
+1197,95288,95,,Groslay,8460,8620
+1198,95295,95,,Guiry-en-Vexin,154,159
+1199,95298,95,,Haravilliers,539,548
+1200,95301,95,,Haute-Isle,319,314
+1201,95303,95,,Le Heaulme,191,198
+1202,95304,95,,H?douville,250,246
+1203,95306,95,,Herblay,26016,26422
+1204,95308,95,,H?rouville,610,607
+1205,95309,95,,Hodent,250,241
+1206,95313,95,,L' Isle-Adam,11744,11880
+1207,95316,95,,Jagny-sous-Bois,254,250
+1208,95323,95,,Jouy-le-Moutier,16589,16376
+1209,95328,95,,Labbeville,569,567
+1210,95331,95,,Lassy,187,185
+1211,95341,95,,Livilliers,381,386
+1212,95348,95,,Longuesse,530,532
+1213,95351,95,,Louvres,9339,9553
+1214,95352,95,,Luzarches,4289,4362
+1215,95353,95,,Maffliers,1664,1691
+1216,95355,95,,Magny-en-Vexin,5752,5858
+1217,95365,95,,Mareil-en-France,694,700
+1218,95369,95,,Margency,2852,2872
+1219,95370,95,,Marines,3254,3313
+1220,95371,95,,Marly-la-Ville,5472,5502
+1221,95379,95,,Maud?tour-en-Vexin,197,199
+1222,95387,95,,Menouville,90,91
+1223,95388,95,,Menucourt,5287,5363
+1224,95392,95,,M?riel,4443,4756
+1225,95394,95,,M?ry-sur-Oise,9260,9290
+1226,95395,95,,Le Mesnil-Aubry,912,897
+1227,95409,95,,Moisselles,1255,1256
+1228,95422,95,,Montgeroult,426,416
+1229,95424,95,,Montigny-l?s-Cormeilles,19041,19442
+1230,95426,95,,Montlignon,2561,2607
+1231,95427,95,,Montmagny,14250,14003
+1232,95428,95,,Montmorency,21194,20945
+1233,95429,95,,Montreuil-sur-Epte,443,442
+1234,95430,95,,Montsoult,3396,3393
+1235,95436,95,,Mours,1352,1340
+1236,95438,95,,Moussy,151,145
+1237,95445,95,,Nerville-la-For?t,653,642
+1238,95446,95,,Nesles-la-Vall?e,1820,1808
+1239,95447,95,,Neuilly-en-Vexin,203,199
+1240,95450,95,,Neuville-sur-Oise,2014,1994
+1241,95452,95,,Nointel,833,846
+1242,95456,95,,Noisy-sur-Oise,688,688
+1243,95459,95,,Nucourt,735,722
+1244,95462,95,,Omerville,301,306
+1245,95476,95,,Osny,16236,16333
+1246,95480,95,,Parmain,5531,5553
+1247,95483,95,,Le Perchay,548,556
+1248,95487,95,,Persan,10498,10790
+1249,95488,95,,Pierrelaye,7958,8012
+1250,95489,95,,Piscop,714,725
+1251,95491,95,,Le Plessis-Bouchard,7730,7763
+1252,95492,95,,Le Plessis-Gassot,73,69
+1253,95493,95,,Le Plessis-Luzarches,131,135
+1254,95500,95,,Pontoise,29548,29885
+1255,95504,95,,Presles,3788,3745
+1256,95509,95,,Puiseux-en-France,3294,3277
+1257,95510,95,,Puiseux-Pontoise,433,422
+1258,95523,95,,La Roche-Guyon,454,458
+1259,95527,Roissy,,Roissy-en-France,2750,2869
+1260,95529,95,,Ronquerolles,858,860
+1261,95535,95,,Sagy,1160,1155
+1262,95539,95,,Saint-Brice-sous-For?t,14320,14361
+1263,95541,95,,Saint-Clair-sur-Epte,934,958
+1264,95543,95,,Saint-Cyr-en-Arthies,228,231
+1265,95554,95,,Saint-Gervais,958,961
+1266,95555,95,,Saint-Gratien,20156,20453
+1267,95563,95,,Saint-Leu-la-For?t,14766,14800
+1268,95566,95,,Saint-Martin-du-Tertre,2586,2649
+1269,95572,95,,Saint-Ouen-l'Aum?ne,23608,23731
+1270,95574,95,,Saint-Prix,7308,7243
+1271,95580,95,,Saint-Witz,2566,2603
+1272,95582,95,,Sannois,26090,26707
+1273,95584,95,,Santeuil,603,623
+1274,95585,95,,Sarcelles,58614,58398
+1275,95592,95,,Seraincourt,1332,1320
+1276,95594,95,,Seugy,1035,1030
+1277,95598,95,,Soisy-sous-Montmorency,17428,17531
+1278,95604,95,,Survilliers,3833,3943
+1279,95607,95,,Taverny,26144,26195
+1280,95610,95,,Th?m?ricourt,264,268
+1281,95611,95,,Theuville,28,27
+1282,95612,95,,Le Thillay,4118,4124
+1283,95625,95,,Us,1318,1327
+1284,95627,95,,Vallangoujard,634,634
+1285,95628,95,,Valmondois,1204,1207
+1286,95633,95,,Vaudherland,90,79
+1287,95637,95,,Vaur?al,16180,16223
+1288,95641,95,,V?mars,2205,2201
+1289,95651,95,,V?theuil,887,901
+1290,95652,95,,Viarmes,4985,5084
+1291,95656,95,,Vienne-en-Arthies,417,417
+1292,95658,95,,Vigny,1077,1072
+1293,95660,95,,Villaines-sous-Bois,671,682
+1294,95675,95,,Villeron,811,844
+1295,95676,95,,Villers-en-Arthies,461,470
+1296,95678,95,,Villiers-Adam,828,828
+1297,95680,95,,Villiers-le-Bel,26736,27428
+1298,95682,95,,Villiers-le-Sec,176,182
+1299,95690,95,,Wy-dit-Joli-Village,327,322
