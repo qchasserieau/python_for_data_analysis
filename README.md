@@ -1,15 +1,18 @@
 ﻿# python_for_data_analysis
 
 ## préparation de la formation
-### installation
-- installer QGIS : https://qgis.org/en/site/forusers/download.html  
-- installer Git Bash : https://gitforwindows.org/  
-- installer Anaconda Python 3.X version: https://www.anaconda.com/distribution/ 
+### installations 
+- installer Anaconda Python 3.X version : https://www.anaconda.com/distribution/    
 l'installation d'anaconda doit se faire dans un répertoire où l'utilisateur à les droits d'écriture  
+- installer QGIS : https://qgis.org/en/site/forusers/download.html  
 
 ### formation autonome
 La partie 1_essentials peut être suivie de façon autonome.  
 Elle correspond à l'annexe «Python Language Essentials» du livre «Python for Data Analysis.pdf»  
+
+### installations facultatives
+- installer Git Bash : https://gitforwindows.org/  
+- créer un compte github: https://github.com/join
 
 ## organisation du dossier
 
